@@ -1,0 +1,99 @@
+/*fontes utilizadas:
+https://www.dafont.com/winter-is-coming.font
+https://www.dafont.com/princess-anna.font
+*/
+#nn{
+  margin-left:25%;
+}
+#n{
+  margin-left:10%;
+  font-size: ;
+}
+a{
+  color: white;
+}
+
+html {
+  background-color:#CFC5D9;
+  height: 100%;
+  width: 100%;
+}
+#top{
+  margin-top: 0%;
+  width: 100%;
+  height:150px;
+ background-color:#FF7572;
+}
+#text{
+  width: 74.4%;
+  color: white;
+  margin-top: -8%;
+  font-size:550%;
+  left:27%;
+  position: absolute;
+  font-family:Winter Is Coming;
+}
+#simbolo{
+  height:105%;
+}
+
+
+#lado{
+  background-color: #F6917D;
+  width: 17%;
+  height: 380%;
+  float:left;
+  position: absolute;
+
+  color: white;
+}
+#guia{
+  padding-left: 10%;
+  position: relative;
+  font-family:;
+  font-size: 230%;
+}
+
+
+.perguntas{
+  right:25%;
+  height: 100%;
+  width: 630px;
+  position: relative;
+  margin-left: 38%;
+  margin-top: 2%;
+  border-radius: 6%;
+  float:right;
+  color:#e53841;
+  background-color: #FFCD72;
+ font-size: 115%;
+
+}
+
+#corpo{
+  background-color: black;
+}
+.questoes{
+  color:#ea1a59;
+  font-family: Princess Anna;
+  font-size: 150%;
+}
+#texto{
+position: relative;
+  float: right;
+  margin-left: 25%;
+  margin-right: 15%;
+  background-color:#FFCD72;
+  font-size: 135%;
+  margin-top:2%;
+  border-radius: 6%;
+  font-family:Winter Is Coming;
+  color: #e53841;
+}
+#botao{
+ font-size: 100%;
+  margin-top: 4%;
+  border-radius:20%;
+  color: #e53841;
+  border-color:#F6917D;
+}
